@@ -1,74 +1,51 @@
 ﻿[
   {
-    "Nome": "Aço",
-    "Cor": "#aab"
+    "Nome": "Abominações",
+    "Cor": "#B83F98"
   },
   {
-    "Nome": "Água",
-    "Cor": "#39f"
+    "Nome": "Bardo",
+    "Cor": "#A82642"
   },
   {
-    "Nome": "Dragão",
-    "Cor": "#76e"
+    "Nome": "Bestas",
+    "Cor": "#D04E21"
   },
   {
-    "Nome": "Elétrico",
-    "Cor": "#fc3"
+    "Nome": "Construção",
+    "Cor": "#3E2213"
   },
   {
-    "Nome": "Fada",
-    "Cor": "#e9e"
+    "Nome": "Cura",
+    "Cor": "#336BBA"
   },
   {
-    "Nome": "Fantasma",
-    "Cor": "#66b"
+    "Nome": "Ilusão",
+    "Cor": "#789CAB"
   },
   {
-    "Nome": "Fogo",
-    "Cor": "#f42"
+    "Nome": "Imperador",
+    "Cor": "#B39443"
   },
   {
-    "Nome": "Gelo",
-    "Cor": "#6cf"
+    "Nome": "Plantas",
+    "Cor": "#257644"
   },
   {
-    "Nome": "Inseto",
-    "Cor": "#ab6"
+    "Nome": "Poções",
+    "Cor": "#FDE872"
   },
   {
-    "Nome": "Lutador",
-    "Cor": "#b54"
+    "Nome": "Oráculo",
+    "Cor": "#2D1C4D"
   },
   {
-    "Nome": "Normal",
-    "Cor": "#aa9"
+    "Nome": "Nenhum",
+    "Cor": "#8F8F8F"
   },
   {
-    "Nome": "Pedra",
-    "Cor": "#ba6"
-  },
-  {
-    "Nome": "Planta",
-    "Cor": "#7c5"
-  },
-  {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
-  },
-  {
-    "Nome": "Sombrio",
-    "Cor": "#754"
-  },
-  {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
-  },
-  {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
+    "Nome": "Todos",
+    "Cor": "#000000"
   }
+
 ]
