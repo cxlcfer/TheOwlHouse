@@ -8,12 +8,13 @@ namespace TheOwlHouse.Services
         private readonly IHttpContextAccessor _session;
         private readonly string personagemFile = @"Data\personagens.json";
         private readonly string covensFile = @"Data\covens.json";
+       
         public TohService(IHttpContextAccessor session)
-
         {
             _session = session;
             PopularSessao();
         }
+
         public List<Personagem> GetPersonagens()
         {
             PopularSessao();
@@ -21,6 +22,7 @@ namespace TheOwlHouse.Services
             (_session.HttpContext.Session.GetString("Personagens"));
             return personagens;
         }
+
         public List<Coven> GetCovens()
         {
             PopularSessao();
@@ -28,11 +30,13 @@ namespace TheOwlHouse.Services
             (_session.HttpContext.Session.GetString("Covens"));
             return covens;
         }
+
         public Personagem GetPersonagem(int Numero)
         {
             var personagens = GetPersonagens();
             return personagens.Where(p => p.Numero == Numero).FirstOrDefault();
         }
+
         public TheOwlHouseDto GetTheOwlHouseDto()
         {
             var persos = new TheOwlHouseDto()
@@ -57,11 +61,13 @@ namespace TheOwlHouse.Services
             };
             return perso;
         }
+
         public Coven GetCoven(string Nome)
         {
             var covens = GetCovens();
             return covens.Where(t => t.Nome == Nome).FirstOrDefault();
         }
+
         private void PopularSessao()
         {
             if (string.IsNullOrEmpty(_session.HttpContext.Session.GetString("Covens")))
@@ -72,6 +78,7 @@ namespace TheOwlHouse.Services
                 .SetString("Covens", LerArquivo(covensFile));
             }
         }
+        
         private string LerArquivo(string fileName)
         {
             using (StreamReader leitor = new StreamReader(fileName))

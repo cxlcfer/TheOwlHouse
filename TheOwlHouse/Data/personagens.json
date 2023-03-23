@@ -11,155 +11,173 @@
   {
     "Numero": 2,
     "Nome": "Alador Blight",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Descricao": "Alador Blight é um personagem coadjuvante de The Owl House . Ele é o ex-engenheiro-chefe da Blight Industries , marido de Odalia Blight e pai de Edric , Emira e Amity Blight .",
     "Especie": "Bruxo",
     "Coven": ["Abominações"] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Imagem": "\\img\\Alador.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Numero": 3,
+    "Nome": "Amity Blight",
+    "Descricao": "Amity Blight é um importante personagem coadjuvante de The Owl House . Ela é uma jovem bruxa prodigiosa que frequenta a Escola de Magia e Demoníacos Hexside . Embora ela tenha sido originalmente retratada como uma antagonista, após se relacionar com Luz , Amity se torna uma pessoa melhor, sendo capaz de enfrentar seus pais, reconquistar sua amizade com Willow , e tornar-se uma boa e íntima amiga de Luz, posteriormente sua namorada.",
+    "Especie":"Bruxo",
+    "Coven": [ "Abominações"] ,
+    "Imagem": "\\img\\Amity.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Numero": 4,
+    "Nome": "Belos",
+    "Descricao": "Imperador Belos é o principal antagonista de The Owl House .",
+    "Especie": "Humano",
+    "Coven": ["Imperador"] ,
+    "Imagem": "\\img\\Belos.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 5,
+    "Nome": "Darius Deamonne",
+    "Descricao": "Darius Deamonne é um personagem de The Owl House . Ele é um dos nove Coven Heads, sendo o líder do Abomination Coven . ",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Abominações"] ,
+    "Imagem": "\\img\\Darius.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 6,
+    "Nome": "Eberwolf",
+    "Descricao": "Eberwolf é um personagem coadjuvante de The Owl House . Ele é um dos nove Coven Heads, sendo o líder do Beast Keeping Coven.",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Bestas"] ,
+    "Imagem": "\\img\\Eberwolf.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 7,
+    "Nome": "Edalyn Clawthorne",
+    "Descricao": "Eda é a deuteragonista de The Owl House . Ela fugiu de casa ainda adolescente após ser amaldiçoada por sua irmã mais velha , acabando por se tornar a criminosa mais procurada e a bruxa selvagem mais poderosa das Boiling Isles , até que sua maldição acabou por enfraquecê-la por completo.",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Nenhum"] ,
+    "Imagem": "\\img\\Eda.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 8,
+    "Nome": "Edric Blight",
+    "Descricao": "Edric Blight é um personagem recorrente de The Owl House . Ele é o irmão mais velho de Amity Blight e irmão gêmeo mais novo de Emira Blight , e um aluno da Escola de Magia e Demonics Hexside .",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Ilusão" , "Poções" , "Bestas"],
+    "Imagem": "\\img\\Edric.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 9,
+    "Nome": "Emira Blight",
+    "Descricao": "Emira Blight é uma personagem recorrente de The Owl House . Ela é a irmã mais velha de Amity , a irmã gêmea mais velha de Edric , e é uma estudante da Escola de Magia e Demonics Hexside .",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Ilusão" , "Cura"] ,
+    "Imagem": "\\img\\Emira.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 10,
+    "Nome": "Gus Porter",
+    "Descricao": "Augustus Porter é um personagem coadjuvante importante de The Owl House . Ele é amigo de Luz , Willow e Amity , que frequentam a Escola de Magia e Demonics Hexside com ele.",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Ilusão"] ,
+    "Imagem": "\\img\\Gus.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 11,
+    "Nome": "Hettie Cutburn",
+    "Descricao": "Hettie Cutburn é uma personagem antagônica de The Owl House . Ela é a bruxa chefe do Healing Coven .",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Cura"] ,
+    "Imagem": "\\img\\Hettie.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Numero": 12,
+    "Nome": "Hunter",
+    "Descricao": "Hunter , anteriormente conhecido como Golden Guard , é um personagem importante de The Owl House , sendo originalmente retratado como um antagonista. Ele era o braço direito do Imperador Belos e o ex-chefe do Coven do Imperador . Presume-se que Hunter seja sobrinho de Belos e, como tal, ele se dedicou à sua causa de acabar com toda a magia selvagem no reino, mas, na realidade, ele é a versão mais recente dos clones da Guarda Dourada criados por Belos para servi-lo fielmente em sua busca louca.",
+    "Especie": "Grimwalker",
+    "Coven": ["Imperador"] ,
+    "Imagem": "\\img\\Hunter.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 13,
+    "Nome": "Lilith Clawthorne",
+    "Descricao": "Lilith Clawthorne é uma personagem principal de The Owl House , servindo como antagonista secundário da primeira temporada até Young Blood, Old Souls , e personagem coadjuvante a partir da segunda temporada . Lilith é a irmã mais velha de Eda e a ex-líder desgraçada e principal estudiosa histórica do Coven do Imperador .",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Imperador"] ,
+    "Imagem": "\\img\\Lilith.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Numero": 14,
+    "Nome": "Luz Noceda",
+    "Descricao": "Luz Noceda é a protagonista de A Casa da Coruja . Ela é uma ansiosa adolescente afro-latina humana que acidentalmente tropeça em um portal para as Ilhas Ferventes no Reino do Demônio . Para se provar uma bruxa , Luz começa a aprender magia sob a orientação de Eda , apesar de não possuir habilidades mágicas próprias.",
+    "Especie": "Humano",
+    "Coven": ["Todos"] ,
+    "Imagem": "\\img\\Luz.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 15,
+    "Nome": "Odalia Blight",
+    "Descricao": "Odalia Blight é uma personagem antagônica de The Owl House . Ela é a CEO da Blight Industries , esposa de Alador e mãe de Edric , Emira e Amity .",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Oráculo"] ,
+    "Imagem": "\\img\\Odalia.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 16,
+    "Nome": "Raine Whispers",
+    "Descricao": "Raine Whispers é um personagem coadjuvante de The Owl House . Eles são a recém-empossada Bruxa Chefe do Bard Coven , e um ex-parceiro de Eda Clawthorne . ",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Bardo"] ,
+    "Imagem": "\\img\\Raine.jpg"
+    },
+
+  {
+    "Numero": 17,
+    "Nome": "Steve",
+    "Descricao": "Steve é ​​um personagem recorrente de The Owl House . Ele é um ex- Coven Scout e atual membro dos Covens Against the Throne .",
+    "Especie": "Bruxo",
+    "Coven": ["Imperador"] ,
+    "Imagem": "\\img\\Steve.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 18,
+    "Nome": "Terra Snapdragon",
+    "Descricao": "Terra Snapdragon é um personagem antagônico de The Owl House . Ela é uma das nove cabeças do coven , sendo a bruxa chefe do Coven de Plantas ",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Coven": ["Plantas"] ,
+    "Imagem": "\\img\\Terra.jpg"
   },
 
   {
-    "Numero": 1,
-    "Nome": "Adrian Graye Vernworth",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Numero": 19,
+    "Nome": "Vitimir",
+    "Descricao": "Vitimir é um personagem antagônico de The Owl House . Ele é o chefe do Coven de Poções , sendo uma parte fundamental do Feitiço de Drenagem .",
     "Especie": "Bruxo",
-    "Coven": [ ""] ,
-    "Imagem": "\\img\\pokemons\\001.png"
-    }
+    "Coven": ["Poções"] ,
+    "Imagem": "\\img\\Vitimir.jpg"
+    },
+
+    {
+      "Numero": 20,
+      "Nome": "Willow Park",
+      "Descricao": "Willow Park é um importante personagem coadjuvante de The Owl House . Ela é amiga de Luz , Gus e Amity e frequenta a mesma escola de magia que eles. Ela originalmente fazia parte da trilha da abominação , mas agora está na trilha da planta.",
+      "Especie": "Bruxo",
+      "Coven": ["Plantas"] ,
+      "Imagem": "\\img\\Willow.jpg"
+      }
 
 
   
